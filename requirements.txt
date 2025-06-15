@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+tweepy
+google-api-python-client
+nltk
+scikit-learn
+wordcloud
+networkx
+gensim
+openpyxl
